@@ -1,2 +1,2 @@
-# Class-37
-Game State and Player Information
+# C37RV_SpeedRacer_StudentActivity
+Student Activity
